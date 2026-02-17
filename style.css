@@ -17,13 +17,7 @@ body {
     justify-content: center;
 }
 
-h1 {
-    color: #8a2be2;
-    text-align: center;
-    font-size: 2.2rem;
-    margin-bottom: 20px;
-    font-weight: 700;
-}
+
 
 /* Input Section */
 .input {
@@ -119,3 +113,4 @@ h1 {
         font-size: 1rem;
     }
 }
+
